@@ -21,8 +21,10 @@ Welcome to the MasterBill project, a complete Pos system management that offers 
 ## Links
 - [MasterBill.gratisan.baby Website](https://masterbill.gratisan.baby/)
 
-Demo Masterbill
+- **Demo Masterbill**
+
 User: masterbill@masterbill.com
-password: masterbill123
+
+Password: masterbill123
 
 Thank you for visiting. Feel free to explore the website
