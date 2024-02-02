@@ -26,6 +26,14 @@ User: masterbill@masterbill.com
 password: masterbill123
 
 
+## 🌐 Connect with Me
+- WhatsApp: [+6281295657833](tel:+6281295657833)
+- Email: [nexagency88@gmail.com](mailto:nexagency88@gmail.com)
+
+## 🤝 Let's Collaborate
+I am always open to collaboration and learning new things. If you have a project or idea to discuss, feel free to reach out to me!
+
+
 
 ![MasterBill Dashboard](https://raw.githubusercontent.com/NexDesign-Agency/MasterBill-Inventory-Pos/main/masterbill1.jpg)
 - **MasterBill Dashboard**
