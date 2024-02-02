@@ -21,8 +21,8 @@ Complete Pos system management that offers a one stop management experience.
 
 ## Demo Masterbill
 
-User: masterbill@masterbill.com
-password: masterbill123
+- User: masterbill@masterbill.com
+- password: masterbill123
 
 
 ## 🌐 Connect with Me
