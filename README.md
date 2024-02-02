@@ -19,10 +19,9 @@ Complete Pos system management that offers a one stop management experience.
 ## Links
 - [MasterBill.gratisan.baby Website](https://masterbill.gratisan.baby/)
 
-Demo Masterbill
+## Demo Masterbill
 
 User: masterbill@masterbill.com
-
 password: masterbill123
 
 
